@@ -1,5 +1,7 @@
 # Consistency-Management-in-Distributed-Replicas
 Sample Project for Consistency Management in Distributed replicas of data. 
+The project is coded in Python. 
+TCP sementics are used.
 
 Working:
 Given are n clients connected simultaneously to the server.
